@@ -96,9 +96,20 @@ textarea {
    ========================================================================== */
 
 
+.stripe {
+  width:100%;
+  height:80px;
+  text-align:center;
+  line-height:80px;
+  white-space:nowrap;
+}
+.green {
+  background-color:green;
+}
 
-
-
+.blue {
+  background-color:blue;
+}
 
 
 
